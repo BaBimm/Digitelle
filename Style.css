@@ -1,0 +1,17 @@
+body{
+    background-color: #d46300;
+    background-image: url(http://www.transparenttextures.com/patterns/diagmonds.png);
+}
+
+.poui{
+    color: white;
+    border: solid;
+}
+
+div{
+    text-align: center;
+}
+
+.bcm{
+    color:white;
+}
